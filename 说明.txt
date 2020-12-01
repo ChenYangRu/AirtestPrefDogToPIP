@@ -1,3 +1,6 @@
 修改 库文件夹里面的 version.py 版本号 以及  setup.py 里面的version 版本 两者统一
 
 当前目录 运行命令    python setup.py sdist			twine upload dist/*   需输入 用户名/密码  466321249/Wo13052390272
+
+
+需 pip 安装  setuptools     twine 
