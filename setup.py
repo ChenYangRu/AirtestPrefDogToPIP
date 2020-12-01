@@ -12,13 +12,13 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'Airtest_PrefDog'
+NAME = 'AirtestWithPrefDog'
 DESCRIPTION = 'AirtestAndPrefDog Runner.'
-URL = 'https://github.com/ChenYangRu/Airtest-PrefDog'
+URL = 'https://github.com/ChenYangRu/AirtestWithPrefDog'
 EMAIL = '466321249@qq.com'
 AUTHOR = 'ChenYang'
 REQUIRES_PYTHON = '<3.7.0'
-VERSION = '0.3.2'
+VERSION = '0.3.5'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
