@@ -94,7 +94,7 @@ def GetPerfData(JsonData):
                           "fps": fps,
                           "jank": jank,
                           "bigjank": bigjank,
-                          "framtTime": frameTime,
+                          "frameTime": frameTime,
                           "AppCPU": AppCPU,
                           "TotalCPU": TotalCPU,
                           "NormalAppCPU": NormalAppCPU,

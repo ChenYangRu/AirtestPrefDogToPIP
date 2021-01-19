@@ -18,7 +18,7 @@ URL = 'https://github.com/ChenYangRu/AirtestWithPrefDog'
 EMAIL = '466321249@qq.com'
 AUTHOR = 'ChenYang'
 REQUIRES_PYTHON = '<3.7.0'
-VERSION = '0.3.10'
+VERSION = '0.3.11'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
